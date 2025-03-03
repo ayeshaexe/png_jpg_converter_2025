@@ -42,7 +42,7 @@ if image_uploader  is not None:
     else:
         print("Something went wrong!!!⚠️⚠️")
 
-st.markdown("---")  # Adds a horizontal line
+st.markdown("---")
 st.markdown("© 2025 PNG to JPG converter. All rights reserved.")     
 
 
